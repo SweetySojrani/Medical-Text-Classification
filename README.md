@@ -31,7 +31,5 @@ The min-epsilon value and K parameter values were calculated using the test vali
 ## Run the code:
 The libraries required for running the code are numpy, pandas, re for cleaning the punctuations, ‘nltk’ for removing stop words and stemming, Counter for majority vote calculation in KNN, classification_report for calculating the F1 score , CountVectorizer for creating sparse matrix, TfidfTransformer for normalizing the sparse matrix.
 
-## Conclusion: The pre-processing and KNN algorithm is implemented to predict the class
-of the medical condition descriptions in the test file which will be used to correctly predict
-the diseases of patients. The classifier can be further improved using more methods of
-data preprocessing for higher precision.
+## Conclusion: 
+The pre-processing and KNN algorithm is implemented to predict the class of the medical condition descriptions in the test file which will be used to correctly predict the diseases of patients. The classifier can be further improved using more methods of data preprocessing for higher precision.
